@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="">Sobre o desafio<a/> |
-  <a href="">Objetivos a realizar<a/> |
-  <a href="">LICENÇA<a/>
+  <a href="https://github.com/gabriel-antero/GoRestaurant-Web/tree/master#information_source-sobre-o-desafio">Sobre o desafio<a/> |
+  <a href="https://github.com/gabriel-antero/GoRestaurant-Web/tree/master#dart-objetivos-realizados">Objetivos a realizar<a/> |
+  <a href="https://github.com/gabriel-antero/GoRestaurant-Web/tree/master#memo-licen%C3%A7a">LICENÇA<a/>
 </p>
 
 <img src="https://github.com/gabriel-antero/GoRestaurant-Web/blob/master/assets/goRestaurant.png"  />
